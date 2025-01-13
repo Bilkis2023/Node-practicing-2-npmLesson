@@ -17,3 +17,19 @@ console.log( a === b);
 
 // Comparing argument values directly
 console.log(process.argv[2] === process.argv[3]);
+
+
+// Printed:
+//  node index.js 3 4
+// false
+// false
+// false
+// false
+
+
+//Printed:
+// node index.js 7 7
+// true
+// true
+// true
+// true
