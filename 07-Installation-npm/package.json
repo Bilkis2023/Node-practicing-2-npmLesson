@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "badmath": "^1.0.1"
+    "badmath": "^1.0.1",
+    "inquirer": "^12.3.3"
   }
 }
